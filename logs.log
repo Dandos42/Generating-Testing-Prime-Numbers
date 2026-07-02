@@ -1,0 +1,50 @@
+2022-12-04 22:47:46,048 DEBUG    starting program
+2022-12-04 22:47:53,047 INFO     user chose operation number 1
+2022-12-04 22:47:58,619 DEBUG    starting program
+2022-12-04 22:48:02,196 INFO     user chose operation number 2
+2022-12-04 22:48:06,268 INFO     user chose operation number 2-1
+2022-12-04 22:48:09,575 INFO     user wrote number for the test
+2022-12-04 22:48:51,426 INFO     user chose operation number 2-1
+2022-12-04 22:48:54,051 INFO     user wrote number for the test
+2022-12-04 22:48:59,109 INFO     user chose operation number 2-1
+2022-12-04 22:49:04,919 INFO     user wrote number for the test
+2022-12-04 22:50:04,523 INFO     user chose operation number 2-2
+2022-12-04 22:50:44,302 DEBUG    starting program
+2022-12-04 22:50:46,951 INFO     user chose operation number 2
+2022-12-04 22:50:49,155 INFO     user chose operation number 2-2
+2022-12-04 22:50:57,874 DEBUG    starting program
+2022-12-04 22:51:56,473 INFO     user chose operation number 2-3
+2022-12-04 22:52:02,471 INFO     saved data into file
+2022-12-04 22:52:06,700 DEBUG    starting program
+2022-12-04 22:52:08,835 INFO     user chose operation number 4
+2022-12-04 22:52:17,020 DEBUG    starting program
+2022-12-04 22:52:21,519 INFO     user chose operation number 5
+2022-12-04 22:52:26,642 DEBUG    starting program
+2022-12-04 22:58:48,590 DEBUG    starting program
+2022-12-04 23:01:27,547 DEBUG    starting program
+2022-12-04 23:01:30,501 INFO     user chose operation number 2
+2022-12-04 23:01:44,519 DEBUG    starting program
+2022-12-04 23:01:45,844 INFO     user chose operation number 1
+2022-12-04 23:01:50,758 DEBUG    starting program
+2022-12-04 23:01:52,725 INFO     user chose operation number 2
+2022-12-04 23:01:56,845 INFO     user chose operation number 2-1
+2022-12-04 23:02:00,687 INFO     user wrote number for the test
+2022-12-04 23:02:09,050 INFO     user chose operation number 2-1
+2022-12-04 23:02:10,426 INFO     user wrote number for the test
+2022-12-04 23:02:14,951 DEBUG    starting program
+2022-12-04 23:02:22,887 INFO     user chose operation number 2
+2022-12-04 23:02:24,559 INFO     user chose operation number 2-1
+2022-12-04 23:02:28,940 INFO     user wrote number for the test
+2022-12-04 23:20:49,182 DEBUG    starting program
+2022-12-04 23:20:50,918 INFO     user chose operation number 1
+2022-12-04 23:22:03,673 DEBUG    starting program
+2022-12-04 23:22:05,418 INFO     user chose operation number 1
+2022-12-04 23:22:11,317 DEBUG    starting program
+2022-12-04 23:22:12,425 INFO     user chose operation number 1
+2022-12-04 23:25:51,398 DEBUG    starting program
+2022-12-04 23:25:53,049 INFO     user chose operation number 2-3
+2022-12-04 23:25:55,899 INFO     saved data into file
+2022-12-04 23:28:24,748 DEBUG    starting program
+2022-12-04 23:28:26,657 INFO     user chose operation number 1
+2022-12-04 23:28:32,716 DEBUG    starting program
+2022-12-04 23:28:34,246 INFO     user chose operation number 1
